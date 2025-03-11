@@ -1,15 +1,15 @@
 <div align="center">
-  <img height="200" src="https://64.media.tumblr.com/23b69bc55aeae31c222e4878b74043c6/98916ec1d14754d4-bc/s640x960/c9665cbbcbb96f12bde41a7484737f4172e502c1.gifv"  />
+  <img height="200" src="https://64.media.tumblr.com/e4494476ecf5c0e68f6c53b61b4a4c04/98916ec1d14754d4-9c/s1280x1920/3b0fb554971d62ac101d28259616e78904ad2173.pnj"  />
 </div>
 
 ###
 
-<p align="left">‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿︵‿︵︵︵‿︵‿</p>
+<p align="left">‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿୨♡୧‿︵‿︵︵‿︵‿︵‿︵︵︵‿︵‿‿︵‿︵‿︵︵‿︵‿︵‿︵</p>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://64.media.tumblr.com/e4494476ecf5c0e68f6c53b61b4a4c04/98916ec1d14754d4-9c/s1280x1920/3b0fb554971d62ac101d28259616e78904ad2173.pnj"  />
+  <img height="200" src="https://64.media.tumblr.com/11c6d35620c8bd1543c5b7bf7246aa46/98916ec1d14754d4-58/s640x960/ad1df536a10fc03140b657409dbe9d11b35f6104.gifv"  />
 </div>
 
 ###
