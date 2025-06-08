@@ -10,16 +10,8 @@
 
 ###
 
-<img align="left" height="21" src="https://files.catbox.moe/9s00sx.gif"  />
-
-###
-
-<img align="right" height="21" src="https://files.catbox.moe/ot91bi.gif"  />
-
-###
-
 <div align="center">
-  <img height="244" src="https://64.media.tumblr.com/1e60eb69ded35f468cc1cd44ce009770/66272ddf5944ad03-62/s250x400/9e336f4045a73eab528c64836cdc0b8b4378bade.gifv"  />
+  <img height="244" src="https://64.media.tumblr.com/4a77da62b216f2ed0a735fb08fb59a8d/66272ddf5944ad03-35/s250x400/b9783b2327c69267a30c55cb0ae6b30efa331a8c.gifv"  />
 </div>
 
 ###
@@ -43,12 +35,6 @@
 ###
 
 <img align="right" height="21" src="https://files.catbox.moe/wrb6lr.gif"  />
-
-###
-
-<div align="center">
-  <img height="280" src="https://64.media.tumblr.com/76c9cca9e16f99b08841d07304c6e3b2/66272ddf5944ad03-c3/s250x400/a329aa16dd7b73e2ffc557fb0f60e936edb9807e.gifv"  />
-</div>
 
 ###
 
