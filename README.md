@@ -1,5 +1,7 @@
+<br clear="both">
+
 <div align="center">
-  <img height="100" src="https://64.media.tumblr.com/a53cdf5f52f5e618d48f67647d9651a5/b844aaf291344f5c-57/s540x810/c6623effa0f666c5f514a56dff909191e4fecfcb.gifv"  />
+  <img height="160" src="https://i.postimg.cc/vBb4nYw5/schizsou.png"  />
 </div>
 
 ###
@@ -42,8 +44,16 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img height="50" src="https://i.postimg.cc/Y9BxBRzx/zf9502.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="160" src="https://i.postimg.cc/QMpBVBwX/schizsou-2.png"  />
 </div>
 
 ###
